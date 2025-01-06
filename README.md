@@ -36,15 +36,11 @@
 ---
 
 ## 🏆 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vartika-bot&show_icons=true&theme=radical)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vartika-bot&layout=compact&theme=radical)  
 
 ---
 
-## 📚 My Projects
-- 🚀 [**No-Code Notebook Builder**](#): A tool for creating customizable notebooks with data blocks.
-- 🎨 [**Icon Picker Library**](#): A lazy-loading icon picker for dynamic projects.
-- 🌟 [**Fitness Dashboard**](#): An interactive health tracker with real-time analytics.
 
 ---
 
@@ -60,7 +56,4 @@
 
 ---
 
-### ⚡ Fun Facts
-- 💻 I started coding at 16 and have never stopped since!
-- 🌟 I enjoy optimizing web performance and creating delightful user experiences.
-- 🎉 Fun fact: I can run a 5K and still debug code immediately after. 😄
+
