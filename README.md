@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vartika Singh
 
-🌟 **Coder Girl | Engineer | Frontend Enthusiast**  
+🌟 **Engineer | Frontend Enthusiast**  
 💡 **Masters in Information Systems| Northeastern University**  
 🚀 **Building engaging web experiences with React, JavaScript, and TypeScript**  
 🎨 **Passionate about design systems, performance optimization, and user-first solutions**  
