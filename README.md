@@ -10,9 +10,8 @@
 ## 👩‍💻 About Me
 - 🏢 **2 years of professional experience** as a Software Engineer.
 - 🌱 I’m currently learning **Web Performance Optimization** and **Advanced TypeScript**.
-- 📝 I love writing tutorials about **frontend best practices** and **coding principles**.
 - 💬 Ask me about **React, Design Systems, Frontend Architecture, or Code Optimization**.
-- 📫 Reach me at **[singh.vart@northeastern.edu](mailto:singh.vart@northeastern.edu) or [svartika841@gmail.com](mailto:svartika841@gmail.com) **.
+- 📫 Reach me at **[singh.vart@northeastern.edu](mailto:singh.vart@northeastern.edu)** or  **[svartika841@gmail.com](mailto:svartika841@gmail.com)**.
 - ⚡ Fun fact: **I enjoy vacationing, travelling, and exploring new cuisines!**
 
 ---
