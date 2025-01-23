@@ -1,18 +1,11 @@
 # Hi 👋, I'm Vartika Singh
 
-🌟 **Engineer | Frontend Enthusiast**  
-💡 **Masters in Information Systems| Northeastern University**  
+🌟 **Engineer | Masters in Information Systems| Northeastern University**  
 🚀 **Building engaging web experiences with React, JavaScript, and TypeScript**  
-
-
----
 
 ## 👩‍💻 About Me
 - 🏢 **2 years of professional experience** as a Software Engineer.
 - 📫 Reach me at **[singh.vart@northeastern.edu](mailto:singh.vart@northeastern.edu)** or  **[svartika841@gmail.com](mailto:svartika841@gmail.com)**.
-
-
----
 
 ## 🛠️ Tech Stack
 ### Languages:
@@ -30,16 +23,9 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack) 
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
----
-
 ## 🏆 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvartikasingh&layout=compact&theme=radical)  
-
----
-
-
----
 
 ## 📈 My Activity
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=iamvartikasingh&theme=react-dark)  
@@ -47,9 +33,7 @@
 ---
 
 ## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vartika--singh/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=web&logoColor=white)](https://vartikasinghh.netlify.app/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:singh.vart@northeastern.edu)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vartika--singh/)  [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=web&logoColor=white)](https://vartikasinghh.netlify.app/)  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:singh.vart@northeastern.edu)  
 
 ---
 
