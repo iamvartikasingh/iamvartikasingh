@@ -3,14 +3,12 @@
 🌟 **Engineer | Frontend Enthusiast**  
 💡 **Masters in Information Systems| Northeastern University**  
 🚀 **Building engaging web experiences with React, JavaScript, and TypeScript**  
-🎨 **Passionate about design systems, performance optimization, and user-first solutions**  
+
 
 ---
 
 ## 👩‍💻 About Me
 - 🏢 **2 years of professional experience** as a Software Engineer.
-- 🌱 I’m currently learning **Web Performance Optimization** and **Advanced TypeScript**.
-- 💬 Ask me about **React, Design Systems, Frontend Architecture, or Code Optimization**.
 - 📫 Reach me at **[singh.vart@northeastern.edu](mailto:singh.vart@northeastern.edu)** or  **[svartika841@gmail.com](mailto:svartika841@gmail.com)**.
 
 
@@ -36,7 +34,7 @@
 
 ## 🏆 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vartika-bot&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvartikasingh&layout=compact&theme=radical)  
 
 ---
 
@@ -44,7 +42,7 @@
 ---
 
 ## 📈 My Activity
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=vartika-bot&theme=react-dark)  
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=iamvartikasingh&theme=react-dark)  
 
 ---
 
